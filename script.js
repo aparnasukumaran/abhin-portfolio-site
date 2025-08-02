@@ -24,7 +24,7 @@ const typed = new Typed('.multiple-text', {
 
 // dwnld_btn
 document.getElementById("dwnld_btn").addEventListener("click", function () {
-    window.open("./resume/resume.pdf");
+    window.open("./resume/Resume.pdf");
 });
 
 
