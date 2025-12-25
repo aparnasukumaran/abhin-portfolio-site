@@ -3,7 +3,7 @@
 A personal portfolio website designed to showcase projects, skills, and design style with a clean and professional layout.
 
 ## 🔗 Live Preview
-https://aparnasukumaran.github.io/abhin-portfolio-site/
+https://aparnakrishnaus.github.io/abhin-portfolio-site/
 
 ## 🌟 Features
 - Personal branding focused design
@@ -30,10 +30,8 @@ Static Website
 ## 🎯 Purpose of the Project
 This project was created to build a professional personal branding website for a client and to demonstrate frontend design and layout skills.
 
-## 📌 Project Status
-Completed
 
 ## 🙋‍♂️ Author
-Aparna Krishna u s  
-GitHub: https://github.com/aparnasukumaran
+-Aparna Krishna u s  
+GitHub Clone: https://github.com/aparnakrishnaus/abhin-portfolio-site.git
 
