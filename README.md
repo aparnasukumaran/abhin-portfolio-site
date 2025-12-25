@@ -3,7 +3,7 @@
 A personal portfolio website designed to showcase projects, skills, and design style with a clean and professional layout.
 
 ## 🔗 Live Preview
-https://aparnakrishnaus.github.io/abhin-portfolio-site/
+ https://aparnakrishnaus.github.io/abhin-portfolio-site/
 
 ## 🌟 Features
 - Personal branding focused design
