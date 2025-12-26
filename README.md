@@ -12,7 +12,7 @@ A personal portfolio website designed to showcase projects, skills, and design s
 - Responsive layout for all devices
 - Clean and minimal UI
 
-## 🛠️ Technologies Used
+## Technologies Used
 - HTML5
 - CSS3
 - W3.CSS
