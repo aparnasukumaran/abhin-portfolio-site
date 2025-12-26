@@ -1,4 +1,4 @@
-# Portfolio Website (Personal Branding)
+## Portfolio Website (Personal Branding)
 
 A personal portfolio website designed to showcase projects, skills, and design style with a clean and professional layout.
 
